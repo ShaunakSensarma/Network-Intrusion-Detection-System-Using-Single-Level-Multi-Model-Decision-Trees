@@ -1,0 +1,2 @@
+# Network-Intrusion-Detection-System-Using-Single-Level-Multi-Model-Decision-Trees
+Intrusion detection has become a major concern in the field of network security and administration. Considering intrusion as a security threat, a network needs a system which protects it from known vulnerabilities and unknown vulnerabilities for efficient functioning of the network. So we are developing an Intrusion detection system which is accurate upto some extent in detecting attacks with a possible minimum number of false positives.
